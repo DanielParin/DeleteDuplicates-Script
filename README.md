@@ -11,7 +11,7 @@ This script removes duplicate lines from a specified text file.
 3. Run (where is located) the script using:
 
    ```sh
-   python script.py
+   python DuplicateScript.py
 
 ## Notes
 
