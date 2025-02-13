@@ -8,7 +8,7 @@ This script removes duplicate lines from a specified text file.
 
 1. Ensure you have Python installed on your system.
 2. Modify the `file_path` variable in the script to point to the file you want to process.
-3. Run the script using:
+3. Run (where is located) the script using:
 
    ```sh
    python script.py
